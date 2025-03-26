@@ -1,5 +1,5 @@
 # Praktikum-pemrograman-web-report-dan-grafik
-Praktik membuat Chart dan Report menggunakan Library Chart JS dan jsPDF
+Praktik membuat Chart grafik dan Report berbasis PDF menggunakan Library Chart JS dan jsPDF
 
 
 Tampilan Web menggunakan Library Chart JS:
